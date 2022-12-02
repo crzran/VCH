@@ -8,7 +8,7 @@ How to install?
 4. Click the "Other set" beside the clock and there will be an iten called plugins
 5. click it, and then a window will open
 6. click the "Load", find the .dll file that you just extracted into the /plugins
-7. clock it
+7. click it(maybe double click, idk)
 8. Open up the little "s" on Departure list, startup list, or wherever you want it to be
 9. Click Add Iten
 10. Roll the tag items all the way down to find VCH/Pending request
